@@ -24,14 +24,12 @@ I'm Russ Tremain, a software developer focused on developer tools and cross-plat
 
 A cross-platform set of shell tools and aliases for project environment management.
 
-- **[vspms](https://github.com/russt/vspms)** - Original Shell/C implementation
+- **[vspms](https://github.com/russt/vspms)** - Shell/C/Perl implementation
   - Supports: tcsh, csh, bash, posix, MKS/NT, cygwin
-  - Battle-tested cross-platform tools
-  
-- **[vspms-go](https://github.com/russt/vspms-go)** - Go implementation *(in development)*
-  - Modern rewrite with improved performance
-  - Single binary deployment
-
+  - Lightweight, battle-tested cross-platform aliases for managing project setups for shell users
+- **[cado](https://github.com/russt/cado)** - Perl 5 implementation
+  - A mature and extensible code generation language that operates on standard templates with embedded macros
+  - Supports: any Perl 5 platform environment
 [→ View all projects](https://russt.github.io/projects/)
 
 ## Get in Touch
